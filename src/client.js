@@ -5,8 +5,8 @@ import moment from 'moment';
 
 const BASE_URL = 'https://my.tado.com';
 const AUTH_URL = 'https://auth.tado.com';
-const CLIENT_ID = 'tado-web-app';
-const CLIENT_SECRET = 'wZaRN7rpjn3FoNyF5IFuxg9uMzYJcvOoQ8QWiIqS3hfk6gLhVlG57j5YNoZL2Rtc';
+const CLIENT_ID = 'public-api-preview';
+const CLIENT_SECRET = '4HJGRffVR8xb3XdEUQpjgZ1VplJi6Xgw';
 const REFERER = 'https://my.tado.com/';
 
 export default class Client {
